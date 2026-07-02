@@ -22,7 +22,7 @@ export default function AboutPage() {
           mainstream economic research to explain not just what is happening
           in the global economy, but why it matters and what tends to get
           missed in the headline-driven news cycle. My goal with{" "}
-          <em>The Economics Desk</em> is analytical clarity over hot takes:
+          <em>Beyond Equilibrium</em> is analytical clarity over hot takes:
           fewer predictions, more context.
         </p>
         <p>

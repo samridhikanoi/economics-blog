@@ -1,4 +1,4 @@
-# The Economics Desk
+# Beyond Equilibrium
 
 A blog built with Next.js 14 (App Router), TypeScript, and Tailwind CSS, featuring 8 original posts on
 current macroeconomic topics, authored by Samridhi Kanoi. Posts, view counts, and like counts are stored

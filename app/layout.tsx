@@ -8,21 +8,21 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "The Economics Desk — by Samridhi Kanoi",
-    template: "%s | The Economics Desk",
+    default: "Beyond Equilibrium | Samridhi Kanoi",
+    template: "%s | Beyond Equilibrium",
   },
   description:
     "Analytical writing on inflation, labor markets, trade, and global macroeconomics by economics writer Samridhi Kanoi.",
   openGraph: {
-    title: "The Economics Desk — by Samridhi Kanoi",
+    title: "Beyond Equilibrium | Samridhi Kanoi",
     description:
       "Analytical writing on inflation, labor markets, trade, and global macroeconomics.",
-    siteName: "The Economics Desk",
+    siteName: "Beyond Equilibrium",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "The Economics Desk — by Samridhi Kanoi",
+    title: "Beyond Equilibrium | Samridhi Kanoi",
     description:
       "Analytical writing on inflation, labor markets, trade, and global macroeconomics.",
   },

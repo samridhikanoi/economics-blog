@@ -10,11 +10,11 @@ export default async function HomePage() {
     <div className="mx-auto max-w-3xl px-4 py-10">
       <div className="mb-8">
         <h1 className="font-serif text-3xl font-bold text-ink">
-          The Economics Desk
+          Beyond Equilibrium
         </h1>
         <p className="mt-2 text-muted">
           Analysis on inflation, labor markets, trade, and global
-          macroeconomics — written by Samridhi Kanoi.
+          macroeconomics, written by Samridhi Kanoi.
         </p>
       </div>
 
