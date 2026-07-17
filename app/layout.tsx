@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       "Analytical writing on inflation, labor markets, trade, and global macroeconomics.",
   },
   verification: {
-    google: "KXQ-2GR3nMFzoV2P2dimYkqNFLHNPIkEBRgEMBFtFCY",
+    google: "Oe2el2i0lDQ7OO_ccuOHKB7fSjDYy8SAUjGUu1IU5qs",
   },
 };
 
